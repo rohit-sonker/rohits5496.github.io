@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Multi-Agent Modelling of Tax Compliance Behaviour in a Population"
-date:   2017-07-30 18:08:39 +00:00
+date:   2017-08-30 18:08:39 +00:00
 image: /images/404.jpg
 categories: Multi-Agent Systems
 course: "Course Project"
