@@ -2,7 +2,7 @@
 layout: post
 title:  "Multi-Agent Modelling of Tax Compliance Behaviour in a Population"
 date:   2017-08-30 18:08:39 +00:00
-image: /images/404.jpg
+image: /images/multi-agent.png
 categories: IIT
 course: "Kanpur"
 author: "Rohit Sonker"
